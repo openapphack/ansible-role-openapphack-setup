@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: openapphack
+  description: Setup openapphack.
+  company: ""
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.0
+  platforms:
+  - name: Debian
+    versions:
+    - all
+  categories:
+    - system

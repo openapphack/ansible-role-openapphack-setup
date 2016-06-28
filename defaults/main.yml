@@ -1,0 +1,6 @@
+---
+# defaults file for openapphack
+oah_install_dir: /opt
+oah_version: 0.0.1
+oah_install_launcher: false
+oah_install_oah_tools: false
